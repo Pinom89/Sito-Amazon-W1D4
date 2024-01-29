@@ -1,0 +1,213 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #eaeded;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.header {
+  background-color: #242f3e;
+  font-size: -2em;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0,0;
+  width: 100%;
+}
+.header img {
+  height: 50px;
+  margin-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+.nav {
+  margin: 0;
+  padding:0;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 0;
+  background-color: #384758;
+  width: 100%;
+}
+
+.tabnav {
+  background-color: #384758;
+  color: rgb(255, 254, 254);
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  text-decoration: none;
+  border: 0 20px 0 20px;
+}
+.nav .tabnav a {
+font-size: 1em;
+font-weight: 400;
+}
+
+main{
+    margin: 30px 30px;
+}
+
+.gif.first{
+    margin: 30px 30px;
+    width: 100%;
+}
+.gif1 {
+  background-color: #ec6913;
+  text-align: center;
+  color: #eaeded;
+  margin: 25px 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  }
+
+ 
+.gif2 {
+  text-align: center;
+  background-image: url(assets/bg-image.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #eaeded;
+  padding-top:30px;
+  font-size: 1.3em;
+  font-weight: 100;
+  margin-left: 25px;
+  width: 100%;
+}
+
+
+/* fine parte superiore*/
+
+.esgiftprimary {
+  margin: 25px 25px;
+  background-color: #ffffff;
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  justify-content: center;
+  
+ }
+
+.esgif1 {
+  text-align: left;
+  text-decoration: none;
+  padding: 15px 15px;
+  font-size: 1.5em;
+
+}
+
+.esgift2{
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+}
+.esgift2 .esgiftimg img {
+    width: 304px;
+    height: 379px;
+    border-radius:50px;
+    margin: 1rem;
+    margin: 20px;
+    object-fit: cover;
+    box-shadow: 15px 15px 10px darkgrey ;
+}
+.esgiftimg {
+    width:100%;
+    height: auto;
+    
+}
+.esgiftprimary .esgif1 a{
+    text-decoration: none;
+}
+
+.casella_Primary{
+    display: block;
+    width: 100%;
+    margin-top: 2rem;
+    padding: 20px;
+    
+}
+
+.caselle{
+    background-color:#ffffff;
+    width: 24%;
+    display: inline-block;
+    margin: 5px 5px;
+    padding: 20px 0 20px 0;
+    
+}
+
+.casella_Primary .caselle a {text-decoration: none;
+margin: 20px 20px}
+
+.casella_Primary .caselle h3{padding-left: 30px;
+    font-size: 1.5em;
+}
+
+.foto_gaming .foto_abbigliamento .foto_holiday .fotowish{
+    height: 150px;
+    width: 150px ;
+}
+
+.wish,.Holiday,.abbigliamento,.div_gaming {
+    display: flex;
+    justify-content: space-evenly;
+}   
+
+.foto {
+    width: 230px;
+    height: 170px;
+    margin: 3px 3px;
+}
+
+/*  parte finale*/
+
+.visore, .visore2{
+   margin-left: 30px;
+   margin-right: 30px;
+    
+}
+.visore img, .visore2 img {
+    width: 100%;
+}
+.visore h2, .visore2 h2{ text-align: center;
+}
+
+.visore h2 a, .visore2 h2 a{text-decoration: none;}
+
+
+/*button bar */
+
+footer{
+width: 100%;
+}
+
+.fine {background-color: #384758;
+width: 100%;
+text-align: center;
+font-size: 1.5em;
+padding:30px 0 30px 0;}
+
+.fine a {color:#ffffff;
+
+}
+
+.logfinale{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #242f3e;
+  width: 100%;
+  text-align: center;
+
+}
+
+footer .logfinale img{
+    height: 60px;
+    width: 200px;
+
+}
